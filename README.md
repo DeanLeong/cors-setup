@@ -58,4 +58,13 @@ end
 
 ## Practice
 
-Let's
+Let's test this out now. Create a new directory in our rails app called `client`. In the future, this will be a React app but for right now we can simulate this with just a javascript file.
+
+1. `cd` into the `client` directory.
+2. Run `npm init -y`. This will give us a `package.json` that we can add packages to (this is separate from our Rails gems).
+3. touch a new file called `scratch.js`
+4. run `npm install axios` in terminal.
+5. At the top of our `scratch.js` file, require axios.
+6. Inside of our `scratch.js` make api functions to hit each of our endpoints on the server and console.log the response.
+
+when we're ready to test, we can call our api functions one at a time and run our `scratch.js` file with `node scratch.js` in terminal.
