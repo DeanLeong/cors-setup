@@ -6,7 +6,7 @@ In this exercise, we will go over how to setup the `rack-cors` gem package with 
 
 ## Setup before the Setup
 
-In this repo, we've included a rails app. Lets start in that directory. `cd` into the `dog_app` directory. We will also need to run `rails db:setup` to get going.
+In this repo, we've included a rails app. Lets start in that directory. `cd` into the `dog_app` directory. We will need to run `bundle install`. We will also need to run `rails db:setup` to get going.
 
 ## The Gem Package
 
