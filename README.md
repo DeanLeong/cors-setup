@@ -1,5 +1,7 @@
 # cors-setup
 
+![](https://i.imgur.com/a9dDFQ9.jpg)
+
 ### Objectives
 
 In this exercise, we will go over how to setup the `rack-cors` gem package with a separate rails API. All together, it can be done in three easy steps.
