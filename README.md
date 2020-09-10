@@ -1,6 +1,6 @@
 # cors-setup
 
-![](https://i.imgur.com/a9dDFQ9.jpg)
+![](https://media2.giphy.com/media/14j9Y06KLXsjCg/giphy.gif)
 
 ### Objectives
 
